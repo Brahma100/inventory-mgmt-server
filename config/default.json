@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://mahesh:mahesh123@cluster0.e80l5.mongodb.net/<dbname>?retryWrites=true&w=majoritymahesh:mahesh123@cluster0.e80l5.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"123456789",
+    "expiresIn": "1h"
+
+}
